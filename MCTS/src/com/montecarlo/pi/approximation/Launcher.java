@@ -13,7 +13,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class Launcher {
-    private static int N = 100000;
+    private static int N = 1000000;
 
     public static void main(String[] args) {
 //        System.out.println("args = [" + Runtime.getRuntime().availableProcessors() + "]");
