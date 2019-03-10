@@ -13,7 +13,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /**
- * launcher 1
+ * launcher 1, 2
  */
 public class Launcher {
     private static int N = 1000000;
