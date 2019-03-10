@@ -12,6 +12,9 @@ import java.util.concurrent.Executors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
+/**
+ * launcher
+ */
 public class Launcher {
     private static int N = 1000000;
 
